@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/slendermantvb/gidion/app-release.apk",
+  "notes": "Version con actualizaciones sin tienda, memoria persistente, llamada por voz, permisos moviles, ubicacion opcional y cliente Ollama/OpenAI-compatible."
+}
