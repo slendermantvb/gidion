@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/slendermantvb/gidion/releases/download/v0.2.5/app-release.apk",
+  "versionCode": 7,
+  "versionName": "0.2.6",
+  "apkUrl": "https://github.com/slendermantvb/gidion/releases/download/v0.2.6/app-release.apk",
   "notes": "Nueva versi\u00f3n.\n\n- Mejoras de estabilidad\n- Correcciones internas\n- Optimizaci\u00f3n general",
-  "forceUpdate": false,
-  "minSupportedVersionCode": 0
+  "forceUpdate": true,
+  "minSupportedVersionCode": 7
 }
